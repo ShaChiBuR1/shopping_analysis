@@ -8,7 +8,7 @@
 ## Содержание
 
 - `data/shopping_behavior.csv` — исходный датасет.
-- `notebooks/shopping_analysis.ipynb` — Jupyter Notebook с анализом.
+- `notebooks/SA.ipynb` — Jupyter Notebook с анализом.
 - Анализ включает:
   - Проверку структуры данных и типов
   - Описательную статистику
